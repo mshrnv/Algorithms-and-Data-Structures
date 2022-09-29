@@ -1,0 +1,5 @@
+add_library(ShellSort SHARED ShellSort.cpp)
+add_library(HeapSort SHARED HeapSort.cpp)
+add_library(QuickSort SHARED QuickSort.cpp)
+add_library(MergeSort SHARED MergeSort.cpp)
+add_library(LSDSort SHARED LSDSort.cpp)
