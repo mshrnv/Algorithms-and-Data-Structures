@@ -31,4 +31,5 @@
 *.out
 *.app
 
-*DC_store
+*DS_store
+.DS_store
